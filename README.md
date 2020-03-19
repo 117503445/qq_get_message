@@ -6,6 +6,8 @@
 
 此博客写于 2020.3.19 ，QQ版本 8.3.0
 
+相关 Github 项目文件见 <https://github.com/117503445/qq_get_message>
+
 ## 如何获得数据库文件
 
 首先需要已经取得 ROOT 权限的 Android 手机，使用RE管理器或其他方式提取
@@ -220,3 +222,5 @@ slowtable_QQ号.db 和 QQ号.db 的数据结构是基本一致的，所以可以
 <https://github.com/Yiyiyimu/QQ_History_Backup>
 
 另外，目前因为key的改变，没有实现后面2个数据库的记录提取，但是 <https://github.com/Yiyiyimu/QQ_History_Backup> 中可以使用近期聊天记录进行提取，而近期聊天记录可以通过第一个数据库提取，这样就可以获得21天前的记录。不过目前我还没有实践 <https://github.com/Yiyiyimu/QQ_History_Backup> 中的方法，所以只是作为思路参考。
+
+如果帮助到了你，请给个 star ：D <https://github.com/117503445/qq_get_message>
